@@ -3,7 +3,9 @@ I utilized Python-based programming to gather data on bike-sharing systems in th
 
 
 # Software used
+
 Git Bash
+
 Atom
 
 
@@ -11,5 +13,7 @@ Atom
 # Files Used
 
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
